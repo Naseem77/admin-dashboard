@@ -17,5 +17,5 @@ FrontEnd Admin Dashboard which displays a full admin tools with charts
 
 ```
 npm install
-nom start
+npm start
 ```
